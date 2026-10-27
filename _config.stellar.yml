@@ -18,7 +18,7 @@ menubar:
        theme: '#FA6400'
        icon: solar:planet-bold-duotone
        title: 探索
-       url: https://zltlk.github.io/grace-cards.html
+       url: https://zltlk.github.io/grace-cards
      - id: social
        theme: '#F62477'
        icon: solar:chat-square-like-bold-duotone
