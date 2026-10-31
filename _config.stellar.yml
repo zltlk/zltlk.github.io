@@ -28,7 +28,7 @@ menubar:
        theme: purple
        icon: solar:user-id-bold-duotone
        title: 关于
-       url: /about/
+       url: https://zltlk.github.io/notify
      - id: social
        theme: blue
        icon: icon-park-twotone:cloud-storage
